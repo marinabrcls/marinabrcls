@@ -1,7 +1,7 @@
 <h1>Hi, there! :wave:</h1>
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/Zd0ofrozf5T0Yg49Dr/giphy.gif" width="20%"/>
 
-###My name is Marina Barcelos, but you can call me `Nina`.
+#### My name is Marina Barcelos, but you can call me `Nina`.
 I'm a **front-end developer**, recently arrived in the tech world. <br>
 I'm currently studying at a school called Trybe to become a full-stack developer. <br>
 I'm a natural communicator - listening  and speking from the heart are my main soft skills. <br>
