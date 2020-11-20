@@ -8,7 +8,7 @@ I'm a natural communicator - listening  and speking from the heart are my main s
 I'm passionate about all things design-related and I see coding as the ultimate key to design. <br>
 In my free time I like to bake cake and binge-watch my favorite TV shows.
 
-#### I feel comfortable with coding in:
+#### :octocat: I feel comfortable with coding in:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -17,7 +17,7 @@ In my free time I like to bake cake and binge-watch my favorite TV shows.
 ![Jest](https://img.shields.io/badge/-Jest-%23F7DF1C?style=flat-square&logo=jest&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
-:octocat:
+
 <img alt="GIF"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinabrcls&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
   height="150px" width="300px" />
