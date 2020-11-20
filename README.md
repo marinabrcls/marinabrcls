@@ -2,8 +2,9 @@
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/Zd0ofrozf5T0Yg49Dr/giphy.gif" width="30%"/>
 
 #### My name is Marina Barcelos, but you can call me Nina.
-:octocat: I'm a front-end developer who has recently arrived in the tech world.
+I'm a front-end developer who has recently arrived in the tech world.
 I'm currently studying at a school called Trybe to become a full-stack developer.
+:octocat:
 
 #### I feel comfortable with coding in:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
