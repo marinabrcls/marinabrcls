@@ -1,4 +1,4 @@
-# Hi, there! :wave:
+<h1> Hi, there! :wave: </h1>
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/Zd0ofrozf5T0Yg49Dr/giphy.gif" width="20%"/>
 
 #### My name is Marina Barcelos, but you can call me `Nina`.
