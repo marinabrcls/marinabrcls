@@ -1,11 +1,9 @@
 <h1>Hi, there! :wave:</h1>
-<img align="right" alt="coding-gif" src="https://media.giphy.com/media/Zd0ofrozf5T0Yg49Dr/giphy.gif" width="35%"/>
+<img align="right" alt="coding-gif" src="https://media.giphy.com/media/Zd0ofrozf5T0Yg49Dr/giphy.gif" width="30%"/>
 
 #### My name is Marina Barcelos, but you can call me `Nina`.
-I'm a **front-end developer**, recently arrived in the tech world. <br>
-I'm currently studying at a school called Trybe to become a full-stack developer. <br>
-I'm a natural communicator - listening  and speking from the heart are my main soft skills. <br>
-I'm passionate about all things design-related and I see coding as the ultimate key to design. <br>
+I'm a **front-end developer**, recently arrived in the tech world. I'm currently studying at a school called Trybe to become a full-stack developer. <br>
+I'm a natural communicator - listening  and speking from the heart are my main soft skills. I'm passionate about all things design-related and I see coding as the ultimate key to design. <br>
 In my free time I like to bake cake and binge-watch my favorite TV shows.
 
 #### :octocat: I feel comfortable with coding in:
