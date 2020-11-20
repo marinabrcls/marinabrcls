@@ -23,9 +23,9 @@ In my free time I like to bake cake and binge-watch my favorite TV shows.
   height="150px" width="300px" />
   
 --- 
-#### My contributions 
+#### My GitHub Stats
 ![Anurag's github
 stats](https://github-readme-stats.vercel.app/api?username=marinabrcls&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-#### Reach me:
+#### Feel free to contact me! :heart:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/marina-barcelos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/marinabrcls)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/marinabarcelos)
