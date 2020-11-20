@@ -1,8 +1,8 @@
-# Hi, there! :wave: :octocat:
+# Hi, there! :wave:
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/Zd0ofrozf5T0Yg49Dr/giphy.gif" width="30%"/>
 
 #### My name is Marina Barcelos, but you can call me Nina.
-I'm a front-end developer who has recently arrived in the tech world.
+:octocat: I'm a front-end developer who has recently arrived in the tech world.
 I'm currently studying at a school called Trybe to become a full-stack developer.
 
 #### I feel comfortable with coding in:
