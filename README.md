@@ -5,7 +5,7 @@
 I'm a **front-end developer**, recently arrived in the tech world. I'm currently studying at a school called Trybe to become a full-stack developer. <br>
 I'm a natural communicator - listening  and speking from the heart are my main soft skills. I'm passionate about all things design-related and I see coding as the ultimate key to design our world. <br>
 In my free time I like to cook, bake and binge-watch my favorite TV shows.
-I'm proudly bissexual, married to a woman and a mother of 3 amazingly cute cats.
+I'm proudly bissexual, married to a woman and a mother to three amazingly cute cats.
 
 #### :octocat: I feel comfortable with coding in:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
