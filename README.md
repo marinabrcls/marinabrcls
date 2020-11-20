@@ -5,7 +5,7 @@
 I'm a **front-end developer**, recently arrived in the tech world. I'm currently studying at a school called Trybe to become a full-stack developer. <br>
 I'm a natural communicator - listening  and speking from the heart are my main soft skills.<br>
 I'm passionate about all things design-related and I see coding as the ultimate key to design our world. <br>
-In my free time I like to cook, bake and binge-watch my favorite TV shows.
+In my free time I like to cook, bake and binge-watch my favorite TV shows. <br>
 I'm proudly bissexual, married to a woman and a mother to 3 amazingly cute cats.
 
 #### :octocat: I feel comfortable with coding in:
