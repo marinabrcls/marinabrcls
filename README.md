@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, there! :wave: :octocat:
+<img align="right" alt="coding-gif" src="https://media.giphy.com/media/Zd0ofrozf5T0Yg49Dr/giphy.gif" width="30%"/>
 
-<!--
-**marinabrcls/marinabrcls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Marina Barcelos, but you can call me Nina.
+I'm a front-end developer who has recently arrived in the tech world.
+I'm currently studying at a school called Trybe to become a full-stack developer.
 
-Here are some ideas to get you started:
+#### I feel comfortable with coding in:
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-7159c1?style=flat-square&logo=react&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-61DAFB?style=flat-square&logo=redux&logoColor=6a4daf)
+![Jest](https://img.shields.io/badge/-Jest-%23F7DF1C?style=flat-square&logo=jest&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img alt="GIF"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinabrcls&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+  height="150px" width="300px" />
+  
+--- 
+#### My contributions
+![Anurag's github
+stats](https://github-readme-stats.vercel.app/api?username=renatanovais&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+#### Reach me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/marina-barcelos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/marinabrcls)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/marinabarcelos)
