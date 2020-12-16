@@ -8,7 +8,7 @@ I'm passionate about all things design-related and I see coding as the ultimate 
 In my free time I like to cook, bake and binge-watch my favorite TV shows. <br>
 I'm proudly bissexual, married to a woman and a mother to 3 amazingly cute cats.
 
-#### :octocat: I feel comfortable with coding in:
+#### :octocat: I feel comfortable with:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
