@@ -1,5 +1,5 @@
 <h1>Hi, there! :wave:</h1>
-<h2>Welcome to my GitHub profile!</h2>
+<h3>Welcome to my GitHub profile!<h3>
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/Zd0ofrozf5T0Yg49Dr/giphy.gif" width="30%"/>
 
 #### My name is Marina Barcelos, but you can call me `Nina`.
